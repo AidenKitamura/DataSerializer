@@ -2,7 +2,7 @@
  * for example, CGs, ending leading flags, etc.
  */
 
-using DataConstants
+using DataConstants;
 
 // TODO: define proper fields and manipulation methods.
 public class FlagsData {

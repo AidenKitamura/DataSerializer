@@ -2,8 +2,8 @@
  */
 
 public class DataConstants {
-    static public const string CardDataDir = "cards.dat";
-    static public const string MonsterDataDir = "mons.dat";
-    static public const string SaveDir = "saves.dat";
-    static public const string FlagsDir = "flags.dat";
+    public const string CardDataDir = "cards.dat";
+    public const string MonsterDataDir = "mons.dat";
+    public const string SaveDir = "saves.dat";
+    public const string FlagsDir = "flags.dat";
 }

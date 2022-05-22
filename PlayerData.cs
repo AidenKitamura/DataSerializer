@@ -8,5 +8,5 @@
 public class PlayerData {
     // TODO: Define player data fields
     // mainly about limits
-    public const string Profession;
+    public string Profession;
 }
